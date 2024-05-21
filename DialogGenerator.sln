@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DialogGenerator", "DialogGenerator\DialogGenerator.csproj", "{A6AA07B1-A177-486C-AC4D-9A2540BDB96E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6AA07B1-A177-486C-AC4D-9A2540BDB96E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6AA07B1-A177-486C-AC4D-9A2540BDB96E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6AA07B1-A177-486C-AC4D-9A2540BDB96E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6AA07B1-A177-486C-AC4D-9A2540BDB96E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

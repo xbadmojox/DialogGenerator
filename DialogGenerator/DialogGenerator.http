@@ -1,0 +1,6 @@
+@DialogGenerator_HostAddress = http://localhost:5245
+
+GET {{DialogGenerator_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
